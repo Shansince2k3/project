@@ -1,7 +1,6 @@
 # Algerian_forest_fires_cleaned_dataset
 
-![image](https://user-images.githubusercontent.com/115451707/196919992-edcfea8b-e3f6-4f35-9398-43be66b5622d.png)
-
+![image](https://github.com/Shansince2k3/project/blob/2a678105219a60c9d08392bef5a188e9a6af1890/.vscode/templates/_120028000_algeriartr.jpg.webp)
 
 To run flask application 
 
